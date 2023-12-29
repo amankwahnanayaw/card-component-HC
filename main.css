@@ -51,7 +51,7 @@ button {
     padding: 12px 24px;
     border-radius: 50px;
     font-weight: 600;
-    color: #0177ff;
+    color: #2e8bf7;
     background-color: #e0efff;
     margin: 0 auto;
     display: block;
@@ -65,6 +65,6 @@ button {
 
 button:focus,
 button:hover {
-    background-color: #0077ff;
+    background-color: #2e8bf7;
     color: #e0efff;
 }
