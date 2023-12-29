@@ -57,3 +57,14 @@ button {
     display: block;
     cursor: pointer;
 }
+
+.card_details {
+    padding: 16px 8px 8px 8px;
+}
+
+
+button:focus,
+button:hover {
+    background-color: #0077ff;
+    color:e0efff;
+}
