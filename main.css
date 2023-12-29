@@ -39,3 +39,21 @@ img {
     font-weight: 600;
     margin-top: 16px;
 }
+
+p {
+    font-size: 14px;
+    color: #7f8c9b;
+    line-height: 150%;
+}
+
+button {
+    border: none;
+    padding: 12px 24px;
+    border-radius: 50px;
+    font-weight: 600;
+    color: #0077ff;
+    background-color: #e0efff;
+    margin: 0 auto;
+    display: block;
+    cursor: pointer;
+}
